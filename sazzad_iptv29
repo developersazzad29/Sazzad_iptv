@@ -8,3 +8,6 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8?nimblesessionid=215
 
 #EXTINF:-1 tvg-id="3" tvg-name="PTV Sports" tvg-logo="http://10.200.13.14/assets/images/PTV%20SPORTS%20HD1745044993.png",PTV Sports
 http://10.200.13.14:8082/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=01943df6d02db6cf670089889dbd0b010d727f35-2e5593d46176bd29d44aecef1c3bc4ed-1781301663-1781290863
+
+#EXTINF:-1 tvg-id="4" tvg-name="T Sports" tvg-logo="http://10.200.13.14/assets/images/PTV%20SPORTS%20HD1745044993.png",PTV Sports
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
