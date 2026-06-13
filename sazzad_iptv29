@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="1" tvg-name="Somoy TV" tvg-logo="http://10.200.13.14/assets/images/SOMOY%20TV1745044149.png",Somoy TV
-http://10.200.13.14:8082/SOMOY.TV.HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=005b6954d492367bd11e7dca9e4605cdc3b8ad4b-10b78088777962b23d67dab90819b41d-1781344605-1781333805
+http://10.200.13.14:8082/SOMOY.TV.HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=4d989a776b02ca9646269a86b2997a06603d2168-26edeaa13a35177432e09b38b093623d-1781398258-1781387458
 
 #EXTINF:-1 tvg-id="2" tvg-name="Somoy TV 2" tvg-logo="http://10.200.13.14/assets/images/SOMOY%20TV1745044149.png",Somoy TV 2
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8?nimblesessionid=21581828
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8?nimblesessionid=23190525
 
 #EXTINF:-1 tvg-id="3" tvg-name="PTV Sports" tvg-logo="http://10.200.13.14/assets/images/PTV%20SPORTS%20HD1745044993.png",PTV Sports
 http://10.200.13.14:8082/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=8063bdd30c310141d15439a6ded34ae011d84f5b-782570b4a3ae18fb14bd07216f45bd40-1781344847-1781334047
