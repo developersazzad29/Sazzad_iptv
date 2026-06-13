@@ -13,4 +13,4 @@ http://10.200.13.14:8082/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&
 https://live6.asimxtech.online/ptv/index.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-name="T Sports" tvg-logo="http://10.200.13.14/assets/images/T%20SPORTS1744972630.png",T Sports
-https://live4.asimxtech.online/tsports2/index.m3u8
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
