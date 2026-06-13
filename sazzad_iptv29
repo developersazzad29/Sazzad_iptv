@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="1" tvg-name="Somoy TV" tvg-logo="http://10.200.13.14/assets/images/SOMOY%20TV1745044149.png",Somoy TV
-http://10.200.13.14:8082/SOMOY.TV.HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=0ad2f958ec63c21b9c9af686170ed69a6a358d43-e183d2b274c8cd2bc2b4c7941394dd3d-1781294956-1781284156
+http://10.200.13.14:8082/SOMOY.TV.HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=005b6954d492367bd11e7dca9e4605cdc3b8ad4b-10b78088777962b23d67dab90819b41d-1781344605-1781333805
 
 #EXTINF:-1 tvg-id="2" tvg-name="T Sports HD" tvg-logo="http://10.200.13.14/assets/images/T%20SPORTS1744972630.png",T Sports HD
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8?nimblesessionid=21581828
