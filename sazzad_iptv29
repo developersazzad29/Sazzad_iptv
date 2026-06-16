@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="1" tvg-name="Somoy TV" tvg-logo="http://10.200.13.14/assets/images/SOMOY%20TV1745044149.png",Somoy TV
-http://10.200.13.14:8082/SOMOY.TV.HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=4d989a776b02ca9646269a86b2997a06603d2168-26edeaa13a35177432e09b38b093623d-1781398258-1781387458
+http://10.200.13.14:8082/SOMOY.TV.HD/tracks-v1a1/mono.m3u8?token=735665bf825704a1cef6e4697384aa6797b9932e-607a59341f22f45a3fd2e909246b7b26-1781648386-1781637586
 
-#EXTINF:-1 tvg-id="2" tvg-name="Somoy TV 2" tvg-logo="http://10.200.13.14/assets/images/SOMOY%20TV1745044149.png",Somoy TV 2
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8?nimblesessionid=23190525
-
-#EXTINF:-1 tvg-id="3" tvg-name="PTV Sports" tvg-logo="http://10.200.13.14/assets/images/PTV%20SPORTS%20HD1745044993.png",PTV Sports
-http://10.200.13.14:8082/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=8063bdd30c310141d15439a6ded34ae011d84f5b-782570b4a3ae18fb14bd07216f45bd40-1781344847-1781334047
+#EXTINF:-1 tvg-id="2" tvg-name="PTV Sports" tvg-logo="http://10.200.13.14/assets/images/PTV%20SPORTS%20HD1745044993.png",PTV Sports
+http://10.200.13.14:8082/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8?token=b9c27dc04904ca9aa0d0c87db5bf99c6f69d9063-f6e6bf5382b836f8b46bb5266b74395a-1781648357-1781637557
 
 #EXTINF:-1 tvg-id="3" tvg-name="PTV Sports 2" tvg-logo="http://10.200.13.14/assets/images/PTV%20SPORTS%20HD1745044993.png",PTV Sports 2
 https://live6.asimxtech.online/ptv/index.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-name="T Sports" tvg-logo="http://10.200.13.14/assets/images/T%20SPORTS1744972630.png",T Sports
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-name="Live-1" tvg-logo="http://10.200.13.14/assets/images/T%20SPORTS1744972630.png",Live-1
+http://10.200.13.14:8082/T-SPORTS-HD/tracks-v1a1/mono.m3u8?token=35c01669ca042fa58ae8621efd862ff5332cc3c2-b24044ecc67e9eaa2fa93a87d7552899-1781647990-1781637190
