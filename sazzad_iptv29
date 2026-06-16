@@ -6,11 +6,7 @@ http://10.200.13.14:8082/SOMOY.TV.HD/tracks-v1a1/mono.m3u8?token=735665bf825704a
 #EXTINF:-1 tvg-id="2" tvg-name="PTV Sports" tvg-logo="http://10.200.13.14/assets/images/PTV%20SPORTS%20HD1745044993.png",PTV Sports
 http://10.200.13.14:8082/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8?token=b9c27dc04904ca9aa0d0c87db5bf99c6f69d9063-f6e6bf5382b836f8b46bb5266b74395a-1781648357-1781637557
 
-#EXTINF:-1 tvg-id="3" tvg-name="PTV Sports 2" tvg-logo="http://10.200.13.14/assets/images/PTV%20SPORTS%20HD1745044993.png",PTV Sports 2
-https://live6.asimxtech.online/ptv/index.m3u8
-
-#EXTINF:-1 tvg-id="4" tvg-name="T Sports" tvg-logo="http://10.200.13.14/assets/images/T%20SPORTS1744972630.png",T Sports
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="5" tvg-name="Live-1" tvg-logo="http://10.200.13.14/assets/images/T%20SPORTS1744972630.png",Live-1
+#EXTINF:-1 tvg-id="3" tvg-name="T Sports" tvg-logo="http://10.200.13.14/assets/images/T%20SPORTS1744972630.png",T Sports
 http://10.200.13.14:8082/T-SPORTS-HD/tracks-v1a1/mono.m3u8?token=35c01669ca042fa58ae8621efd862ff5332cc3c2-b24044ecc67e9eaa2fa93a87d7552899-1781647990-1781637190
+
+
