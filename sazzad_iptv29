@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="1" tvg-name="Somoy TV" tvg-logo="http://10.200.13.14/assets/images/SOMOY%20TV1745044149.png",Somoy TV
-http://10.200.13.14:8082/SOMOY.TV.HD/tracks-v1a1/mono.m3u8?token=7a80fc06073ed1bf630b967988fd41be0a7a3b29-4f7dbb26dbe00442d707c34ba9c9aa16-1781667842-1781657042
+http://10.200.13.14:8082/SOMOY.TV.HD/tracks-v1a1/mono.m3u8?token=b620ad66d626842029cb018a4b172b096e2becf2-1cecaee1ed2679d5efbc14cb51c2c1fe-1781668565-1781657765
 
 #EXTINF:-1 tvg-id="2" tvg-name="PTV Sports" tvg-logo="http://10.200.13.14/assets/images/PTV%20SPORTS%20HD1745044993.png",PTV Sports
 http://10.200.13.14:8082/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8?token=fec652bfa6374c1e46ac7f9e880c49dfdba06cd4-61609ea380f0fc3183f5b25d5843bd9d-1781667821-1781657021
