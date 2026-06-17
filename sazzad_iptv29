@@ -7,7 +7,7 @@ http://10.200.13.14:8082/SOMOY.TV.HD/tracks-v1a1/mono.m3u8?token=7a80fc06073ed1b
 http://10.200.13.14:8082/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8?token=fec652bfa6374c1e46ac7f9e880c49dfdba06cd4-61609ea380f0fc3183f5b25d5843bd9d-1781667821-1781657021
 
 #EXTINF:-1 tvg-id="3" tvg-name="T Sports" tvg-logo="http://10.200.13.14/assets/images/T%20SPORTS1744972630.png",T Sports
-http://10.200.13.14:8082/T-SPORTS-HD/tracks-v1a1/mono.m3u8?token=3c33193c0cf43dca70cbfb8f2e5eb8534ff045e8-20398c21578cb44c45dd9151b589c0e0-1781667755-1781656955
+http://10.200.13.14:8082/T-SPORTS-HD/tracks-a1/mono.m3u8?token=6949520df025d71d914e755fad888043fd920e1c-7e1d40c0fcdc5557b55ba832f20a166a-1781668065-1781657265
 
 #EXTINF:-1 tvg-id="4" tvg-name="Live-1" tvg-logo="http://10.200.13.14/assets/images/SOMOY%20TV1745044149.png",Somoy TV
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
