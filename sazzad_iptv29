@@ -14,3 +14,12 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-name="Live-1" tvg-logo="http://10.200.13.14/assets/images/SOMOY%20TV1745044149.png",T Sports 2
 https://daffodil.thelistener.pk/tele.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-name="Live-1" tvg-logo="http://10.200.13.14/assets/images/SOMOY%20TV1745044149.png",NOW 616 4k
+http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
+
+#EXTINF:-1 tvg-id="4" tvg-name="Live-1" tvg-logo="http://10.200.13.14/assets/images/SOMOY%20TV1745044149.png",Fussball 4k
+http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
+
+#EXTINF:-1 tvg-id="4" tvg-name="Live-1" tvg-logo="http://10.200.13.14/assets/images/SOMOY%20TV1745044149.png",Fussball FHD
+http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
