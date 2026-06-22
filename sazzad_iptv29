@@ -4,7 +4,7 @@
 http://10.200.13.14:8082/SOMOY.TV.HD/tracks-v1a1/mono.m3u8?token=033ee4a7fb2f86ca045e061cb9b6f241120df346-621e43b42c0d15c7b5c52c92d2eaecc6-1782065767-1782054967
 
 #EXTINF:-1 tvg-id="2" tvg-name="PTV Sports" tvg-logo="http://10.200.13.14/assets/images/PTV%20SPORTS%20HD1745044993.png",PTV Sports
-http://10.200.13.14:8082/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8?token=b9c5774e8bc40a4572eb6feda735235163c7e065-9fa67672f783832846fec956b9749721-1782065786-1782054986
+http://10.200.13.14:8082/AND.FLIX.HD/tracks-v1a1/mono.m3u8?token=b29adec30a335044ed49f498415d98646e0274a3-fb000399785eadee5b5b03c0dcde5ff4-1782155149-1782144349
 
 #EXTINF:-1 tvg-id="3" tvg-name="T Sports" tvg-logo="http://10.200.13.14/assets/images/T%20SPORTS1744972630.png",T Sports
 http://10.200.13.14:8082/T-SPORTS-HD/tracks-v1a1/mono.m3u8?token=d1748ec2a3ab6fbcbe81d19167f9ba413454190c-29310f5e2d7d493d0fe8d78691cff0c2-1782155043-1782144243
